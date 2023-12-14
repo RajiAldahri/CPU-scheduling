@@ -56,7 +56,7 @@ The program assumes that the user enters valid inputs for burst times and priori
 1. **Clone the Repository:**
  
    ```bash
-   git clone https://github.com/RajiAldahri/CPU_scheduling.git
+   git clone https://github.com/RajiAldahri/CPU-scheduling.git
    
 2. **Compile and Run:**
 
